@@ -1,0 +1,19 @@
+{
+  "name": "instaboot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Alves",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
+    "puppeteer": "^1.11.0",
+    "sequelize": "^4.42.0",
+    "tedious": "^4.1.3"
+  }
+}

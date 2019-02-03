@@ -1,0 +1,24 @@
+{
+  "url": "https://www.instagram.com",
+  "usuario": "",
+  "senha": "",
+  "configuracoes": {
+    "abrirTela": true
+  },
+  "seletores": {
+    "to_conect_se": ".izU2O a",
+    "usuario_input": "input[name=\"username\"]",
+    "senha_input": "input[name=\"password\"]",
+    "btn_login": "button[type=\"submit\"]",
+    "input_busca": ".XTCLo x3qfX ",
+    "linha_fotos_tag": ".Nnq7C",
+    "foto_tag": ".v1Nh3",
+    "fechar_foto": ".ckWGn",
+    "proxima_foto": ".HBoOv",
+    "link_likers_video": ".vcOH2",
+    "link_likers_foto": ".Nm9Fw > button > span",
+    "link_lista_likers_foto": ".PZuss",
+    "usuario_lista_likes": " .wo9IH",
+    "lista_likers_usuario": ".d7ByH"
+  }
+}
